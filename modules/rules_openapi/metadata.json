@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/matsubara0507/rules_openapi",
+    "maintainers": [
+      {
+        "name": "MATSUBARA Nobutada",
+        "email": "nobutada0507@gmail.com",
+        "github": "matsubara0507"
+      }
+    ],
+    "repository": [
+      "github:matsubara0507/rules_openapi"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+  }
+  
